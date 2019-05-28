@@ -1,12 +1,13 @@
 {
     "request": {
-        "urlPattern": "/rest/v1.1/sites/158396482/post-formats.*",
-        "method": "GET"
+        "method": "POST",
+        "urlPath": "/rest/v1.1/notifications/seen"
     },
     "response": {
         "status": 200,
         "jsonBody": {
-            "formats": {}
+            "last_seen_time": "1550137757",
+            "success": true
         },
         "headers": {
             "Content-Type": "application/json",

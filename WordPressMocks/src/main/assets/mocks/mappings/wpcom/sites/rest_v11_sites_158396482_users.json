@@ -1,12 +1,18 @@
 {
     "request": {
-        "urlPattern": "/rest/v1.1/sites/158396482/post-formats.*",
-        "method": "GET"
+        "urlPath": "/rest/v1.1/sites/158396482/users",
+        "method": "GET",
+        "queryParameters": {
+            "authors_only": {
+                "equalTo": "1"
+            }
+        }
     },
     "response": {
         "status": 200,
         "jsonBody": {
-            "formats": {}
+            "found": 1,
+            "users": []
         },
         "headers": {
             "Content-Type": "application/json",

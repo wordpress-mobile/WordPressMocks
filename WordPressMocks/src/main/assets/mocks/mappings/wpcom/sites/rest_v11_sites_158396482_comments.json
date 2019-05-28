@@ -1,12 +1,14 @@
 {
     "request": {
-        "urlPattern": "/rest/v1.1/sites/158396482/post-formats.*",
+        "urlPath": "/rest/v1.1/sites/158396482/comments",
         "method": "GET"
     },
     "response": {
         "status": 200,
         "jsonBody": {
-            "formats": {}
+            "found": 2,
+            "site_ID": 158396482,
+            "comments": []
         },
         "headers": {
             "Content-Type": "application/json",

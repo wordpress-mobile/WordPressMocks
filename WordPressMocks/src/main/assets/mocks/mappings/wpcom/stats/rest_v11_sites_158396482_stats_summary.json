@@ -1,20 +1,19 @@
 {
     "request": {
         "method": "GET",
-        "urlPattern": "/rest/v1.1/sites/158396482/stats/clicks(/)?($|\\?.*)"
+        "urlPattern": "/rest/v1.1/sites/158396482/stats/summary.*"
     },
     "response": {
         "status": 200,
         "jsonBody": {
             "date": "{{now format='yyyy-MM-dd'}}",
-            "days": {
-                "{{now format='yyyy-MM-dd'}}": {
-                    "clicks": [],
-                    "other_clicks": 0,
-                    "total_clicks": 0
-                }
-            },
-            "period": "day"
+            "period": "day",
+            "views": 0,
+            "visitors": 0,
+            "likes": 0,
+            "reblogs": 0,
+            "comments": 0,
+            "followers": 1
         },
         "headers": {
             "Content-Type": "application/json",
