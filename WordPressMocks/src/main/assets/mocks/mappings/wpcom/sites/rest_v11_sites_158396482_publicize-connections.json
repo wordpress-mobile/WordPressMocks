@@ -1,12 +1,12 @@
 {
     "request": {
-        "urlPattern": "/rest/v1.1/sites/158396482/post-formats.*",
+        "urlPath": "/rest/v1.1/sites/158396482/publicize-connections",
         "method": "GET"
     },
     "response": {
         "status": 200,
         "jsonBody": {
-            "formats": {}
+            "connections": []
         },
         "headers": {
             "Content-Type": "application/json",

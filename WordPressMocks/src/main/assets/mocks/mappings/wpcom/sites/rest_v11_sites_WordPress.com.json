@@ -1,12 +1,13 @@
 {
     "request": {
-        "urlPattern": "/rest/v1.1/sites/158396482/post-formats.*",
-        "method": "GET"
+        "method": "GET",
+        "urlPath": "/rest/v1.1/sites/WordPress.com"
     },
     "response": {
-        "status": 200,
+        "status": 403,
         "jsonBody": {
-            "formats": {}
+            "error": "unauthorized",
+            "message": "User cannot access this restricted blog"
         },
         "headers": {
             "Content-Type": "application/json",
