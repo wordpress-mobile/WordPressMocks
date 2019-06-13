@@ -4,14 +4,14 @@
         "urlPath": "/rest/v1.1/connect/site-info",
         "queryParameters": {
             "url": {
-                "equalTo": "https://WordPress.com"
+                "matches": "https://(.+\\.)?wordpress\\.com"
             }
         }
     },
     "response": {
-        "status": 403,
+        "status": 200,
         "jsonBody": {
-            "urlAfterRedirects": "https://WordPress.com",
+            "urlAfterRedirects": "{{request.requestLine.query.url}}",
             "exists": true,
             "isWordPress": true,
             "hasJetpack": false,
