@@ -1,2 +1,0 @@
-Recibe notificaciones
-en tiempo real
