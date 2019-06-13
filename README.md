@@ -53,7 +53,7 @@ You can fetch the latest changes made to this library into your project using:
 
 And you can push your own changes upstream to `WordPressMocks` using:
 
-    $ git subtree push --prefix=libs/login git@github.com:wordpress-mobile/WordPressMocks.git branch-name
+    $ git subtree push --prefix=libs/mocks git@github.com:wordpress-mobile/WordPressMocks.git branch-name
 
 Note: You can add this repository as a remote to simplify the `git subtree push`/`pull` commands:
 
