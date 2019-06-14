@@ -10,7 +10,9 @@
     },
     "response": {
         "status": 200,
-        "body": true,
+        "jsonBody": {
+            "available": true
+        },
         "headers": {
             "Content-Type": "text/javascript",
             "Connection": "keep-alive"
