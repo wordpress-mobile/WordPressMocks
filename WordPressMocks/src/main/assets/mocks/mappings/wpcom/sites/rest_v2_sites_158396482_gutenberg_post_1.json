@@ -1,18 +1,18 @@
 {
+  "scenarioName": "editor",
+  "requiredScenarioState": "enabled",
+  "newScenarioState": "disabled",
   "request": {
     "urlPattern": "/wpcom/v2/sites/158396482/gutenberg(/)?($|\\?.*)",
     "method": "POST",
-    "headers": {
-      "Content-Type": {
-        "equalTo": "application/json; charset=UTF-8"
-      }
-    },
-    "bodyPatterns" : [ {
-      "equalToJson" : {
-        "editor" : "aztec",
-        "platform" : "mobile"
-      }
-    } ]
+    "queryParameters": {
+        "editor": {
+            "equalTo": "aztec"
+        },
+        "platform": {
+            "equalTo": "mobile"
+        }
+    }
   },
   "response": {
     "status": 200,
