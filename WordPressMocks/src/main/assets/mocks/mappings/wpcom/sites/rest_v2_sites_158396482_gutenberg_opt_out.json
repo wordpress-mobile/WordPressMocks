@@ -2,12 +2,14 @@
     "request": {
         "urlPattern": "/wpcom/v2/sites/158396482/gutenberg(/)?($|\\?.*)",
         "method": "POST",
-        "bodyPatterns": [
-            {
-              "equalToJson" : "{ \"editor\": \"aztec\" }",
-              "ignoreExtraElements" : true
+        "queryParameters": {
+            "editor": {
+                "equalTo": "aztec"
+            },
+            "platform": {
+                "equalTo": "mobile"
             }
-        ]
+        }
     },
     "response": {
         "status": 200,
