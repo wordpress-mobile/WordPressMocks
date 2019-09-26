@@ -1,4 +1,6 @@
 {
+    "scenarioName": "gutenberg",
+    "requiredScenarioState": "Started",
     "request": {
         "urlPattern": "/wpcom/v2/sites/158396482/gutenberg(/)?($|\\?.*)",
         "method": "GET"
