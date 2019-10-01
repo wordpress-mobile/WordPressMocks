@@ -1,13 +1,17 @@
 {
+    "scenarioName": "gutenberg",
+    "newScenarioState": "enabled",
     "request": {
         "urlPattern": "/wpcom/v2/sites/158396482/gutenberg(/)?($|\\?.*)",
         "method": "POST",
-        "bodyPatterns": [
-            {
-              "equalToJson" : "{ \"editor\": \"gutenberg\" }",
-              "ignoreExtraElements" : true
+        "queryParameters": {
+            "editor": {
+                "equalTo": "gutenberg"
+            },
+            "platform": {
+                "equalTo": "mobile"
             }
-        ]
+        }
     },
     "response": {
         "status": 200,
