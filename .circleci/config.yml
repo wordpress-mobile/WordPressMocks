@@ -1,0 +1,24 @@
+version: 2.1
+
+orbs:
+  # This uses the iOS Orb located at https://github.com/wordpress-mobile/circleci-orbs
+  ios: wordpress-mobile/ios@0.0.35
+
+workflows:
+  wordpress_mocks:
+    jobs:
+      - ios/validate-podspec:
+          name: Validate Podspec
+          sources: https://cdn.cocoapods.org/
+          xcode-version: "11.0.0"
+          podspec-path: WordPressMocks.podspec
+      - ios/publish-podspec:
+          name: Publish to Trunk
+          xcode-version: "11.0.0"
+          podspec-path: WordPressMocks.podspec
+          post-to-slack: true
+          filters:
+            tags:
+              only: /.*/
+            branches:
+              ignore: /.*/
