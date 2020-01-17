@@ -3,7 +3,7 @@ name: Validate Mocks
 on: [push]
 
 jobs:
-  lint:
+  lint-mocks:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
@@ -23,7 +23,7 @@ jobs:
       run: bundle install --jobs 4 --retry 3
     - name: Lint Mocks
       run: bundle exec rake lint
-  validate pod:
+  check-pod-is-valid:
     runs-on: macos-latest
     steps:
      - uses: actions/checkout@v1
