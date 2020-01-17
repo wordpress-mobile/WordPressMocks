@@ -12,5 +12,6 @@ jobs:
         ruby-version: '2.6.x'
     - name: rake lint
       run: |
+        gem install bundler
         bundle install --jobs 4 --retry 3
         bundle exec rake lint
