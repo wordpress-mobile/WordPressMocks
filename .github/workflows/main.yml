@@ -42,5 +42,5 @@ jobs:
        if: steps.restore-dependency-cache.outputs.cache-hit != 'true'
        run: bundle install --jobs 4 --retry 3
      - name: Validate Pod
-       run: bundle exec pod lib lint
+       run: bundle exec pod lib lint --verbose
 
