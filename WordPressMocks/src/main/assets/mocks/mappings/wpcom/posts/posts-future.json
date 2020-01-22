@@ -13,7 +13,7 @@
                 "equalTo": "date"
             },
             "fields": {
-                "matches": "ID,modified,status(,meta)?"
+                "matches": "ID,modified,status(,meta)?(,date)?"
             },
             "order": {
                 "equalTo": "DESC"
