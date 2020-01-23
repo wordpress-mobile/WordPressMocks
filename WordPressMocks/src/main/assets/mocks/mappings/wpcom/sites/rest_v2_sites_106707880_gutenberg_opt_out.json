@@ -2,7 +2,7 @@
     "scenarioName": "gutenberg",
     "newScenarioState": "Started",
     "request": {
-        "urlPattern": "/wpcom/v2/sites/106707880/gutenberg(/)?($|\\?.*)",
+        "urlPath": "/wpcom/v2/sites/106707880/gutenberg/",
         "method": "POST",
         "queryParameters": {
             "editor": {
