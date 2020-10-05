@@ -24,7 +24,7 @@
                 "436": {
                     "ID": "436",
                     "title": "Photography",
-                    "URL": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/read\/tags\/photography\/posts",
+                    "URL": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/read\/tags\/photography\/posts",
                     "slug": "photography",
                     "display_name": "photography",
                     "type": "tag"

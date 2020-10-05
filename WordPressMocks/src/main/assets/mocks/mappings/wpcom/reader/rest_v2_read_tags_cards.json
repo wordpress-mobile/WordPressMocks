@@ -2514,9 +2514,9 @@
                     "post_count": 1,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:birdweekly",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:birdweekly\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:birdweekly",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:birdweekly\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2528,9 +2528,9 @@
                     "post_count": 19,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:cees-fotd",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:cees-fotd\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:cees-fotd",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:cees-fotd\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2542,9 +2542,9 @@
                     "post_count": 5,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:gardening",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:gardening\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:gardening",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:gardening\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2556,9 +2556,9 @@
                     "post_count": 4,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:mammoth-lakes",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:mammoth-lakes\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:mammoth-lakes",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:mammoth-lakes\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2570,9 +2570,9 @@
                     "post_count": 345,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:photography",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:photography\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:photography",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:photography\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2584,9 +2584,9 @@
                     "post_count": 33,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:photography-challenges",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:photography-challenges\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:photography-challenges",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:photography-challenges\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2598,9 +2598,9 @@
                     "post_count": 8,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:plumeria",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:plumeria\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:plumeria",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:plumeria\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2612,9 +2612,9 @@
                     "post_count": 131,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:sunday-stills",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:sunday-stills\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:sunday-stills",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:sunday-stills\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2626,9 +2626,9 @@
                     "post_count": 14,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:water",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:water\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:water",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:water\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2640,9 +2640,9 @@
                     "post_count": 1,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/tags\/slug:water-droplets",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/tags\/slug:water-droplets\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/tags\/slug:water-droplets",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/tags\/slug:water-droplets\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 }
@@ -2657,9 +2657,9 @@
                     "parent": 0,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/categories\/slug:leisure",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/categories\/slug:leisure\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/categories\/slug:leisure",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/categories\/slug:leisure\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2672,9 +2672,9 @@
                     "parent": 0,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/categories\/slug:photography",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/categories\/slug:photography\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/categories\/slug:photography",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/categories\/slug:photography\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 },
@@ -2687,9 +2687,9 @@
                     "parent": 0,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/categories\/slug:weekly-photo-challenge",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/categories\/slug:weekly-photo-challenge\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/categories\/slug:weekly-photo-challenge",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/categories\/slug:weekly-photo-challenge\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452"
                         }
                     }
                 }
@@ -2699,11 +2699,11 @@
             "metadata": [],
             "meta": {
                 "links": {
-                    "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/read\/sites\/28958452\/posts\/10046",
-                    "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28958452\/posts\/10046\/help",
-                    "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28958452",
-                    "replies": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/posts\/10046\/replies\/",
-                    "likes": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28958452\/posts\/10046\/likes\/"
+                    "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/read\/sites\/28958452\/posts\/10046",
+                    "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28958452\/posts\/10046\/help",
+                    "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28958452",
+                    "replies": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/posts\/10046\/replies\/",
+                    "likes": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28958452\/posts\/10046\/likes\/"
                 }
             },
             "capabilities": {
@@ -2782,9 +2782,9 @@
                     "post_count": 68,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/tags\/slug:quotes",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/tags\/slug:quotes\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/tags\/slug:quotes",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/tags\/slug:quotes\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 },
@@ -2796,9 +2796,9 @@
                     "post_count": 60,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/tags\/slug:blogging",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/tags\/slug:blogging\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/tags\/slug:blogging",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/tags\/slug:blogging\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 },
@@ -2810,9 +2810,9 @@
                     "post_count": 20,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/tags\/slug:nature",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/tags\/slug:nature\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/tags\/slug:nature",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/tags\/slug:nature\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 },
@@ -2824,9 +2824,9 @@
                     "post_count": 89,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/tags\/slug:photography",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/tags\/slug:photography\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/tags\/slug:photography",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/tags\/slug:photography\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 },
@@ -2838,9 +2838,9 @@
                     "post_count": 122,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/tags\/slug:poetry",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/tags\/slug:poetry\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/tags\/slug:poetry",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/tags\/slug:poetry\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 }
@@ -2855,9 +2855,9 @@
                     "parent": 0,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/categories\/slug:photography",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/categories\/slug:photography\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/categories\/slug:photography",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/categories\/slug:photography\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 },
@@ -2870,9 +2870,9 @@
                     "parent": 0,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/categories\/slug:poetry",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/categories\/slug:poetry\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/categories\/slug:poetry",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/categories\/slug:poetry\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 },
@@ -2885,9 +2885,9 @@
                     "parent": 0,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/categories\/slug:uncategorized",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/categories\/slug:uncategorized\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/categories\/slug:uncategorized",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/categories\/slug:uncategorized\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660"
                         }
                     }
                 }
@@ -2897,11 +2897,11 @@
             "metadata": false,
             "meta": {
                 "links": {
-                    "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/read\/sites\/60412660\/posts\/1007",
-                    "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/60412660\/posts\/1007\/help",
-                    "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/60412660",
-                    "replies": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/posts\/1007\/replies\/",
-                    "likes": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/60412660\/posts\/1007\/likes\/"
+                    "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/read\/sites\/60412660\/posts\/1007",
+                    "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/60412660\/posts\/1007\/help",
+                    "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/60412660",
+                    "replies": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/posts\/1007\/replies\/",
+                    "likes": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/60412660\/posts\/1007\/likes\/"
                 }
             },
             "capabilities": {
@@ -2987,9 +2987,9 @@
                     "post_count": 24,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:2020",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:2020\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:2020",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:2020\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3001,9 +3001,9 @@
                     "post_count": 10,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:autumn",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:autumn\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:autumn",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:autumn\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3015,9 +3015,9 @@
                     "post_count": 1,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:autumnal-equinox",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:autumnal-equinox\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:autumnal-equinox",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:autumnal-equinox\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3029,9 +3029,9 @@
                     "post_count": 1,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:equinoxe",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:equinoxe\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:equinoxe",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:equinoxe\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3043,9 +3043,9 @@
                     "post_count": 2,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:fall-equinox",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:fall-equinox\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:fall-equinox",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:fall-equinox\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3057,9 +3057,9 @@
                     "post_count": 1,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:jean-michel-jarre",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:jean-michel-jarre\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:jean-michel-jarre",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:jean-michel-jarre\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3071,9 +3071,9 @@
                     "post_count": 4,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:moon-phase",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:moon-phase\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:moon-phase",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:moon-phase\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3085,9 +3085,9 @@
                     "post_count": 8,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:moonrise",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:moonrise\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:moonrise",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:moonrise\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3099,9 +3099,9 @@
                     "post_count": 5,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:photo",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:photo\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:photo",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:photo\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3113,9 +3113,9 @@
                     "post_count": 110,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:photography",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:photography\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:photography",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:photography\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3127,9 +3127,9 @@
                     "post_count": 27,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:sunrise",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:sunrise\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:sunrise",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:sunrise\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3141,9 +3141,9 @@
                     "post_count": 34,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/tags\/slug:sunset",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/tags\/slug:sunset\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/tags\/slug:sunset",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/tags\/slug:sunset\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 }
@@ -3158,9 +3158,9 @@
                     "parent": 78522247,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/categories\/slug:nature",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/categories\/slug:nature\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/categories\/slug:nature",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/categories\/slug:nature\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3173,9 +3173,9 @@
                     "parent": 78522247,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/categories\/slug:photography",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/categories\/slug:photography\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/categories\/slug:photography",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/categories\/slug:photography\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3188,9 +3188,9 @@
                     "parent": 680306717,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/categories\/slug:seasons",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/categories\/slug:seasons\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/categories\/slug:seasons",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/categories\/slug:seasons\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 },
@@ -3203,9 +3203,9 @@
                     "parent": 680306717,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/categories\/slug:time",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/categories\/slug:time\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/categories\/slug:time",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/categories\/slug:time\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157"
                         }
                     }
                 }
@@ -3215,11 +3215,11 @@
             "metadata": [],
             "meta": {
                 "links": {
-                    "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/read\/sites\/28002157\/posts\/20653",
-                    "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/28002157\/posts\/20653\/help",
-                    "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/28002157",
-                    "replies": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/posts\/20653\/replies\/",
-                    "likes": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/28002157\/posts\/20653\/likes\/"
+                    "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/read\/sites\/28002157\/posts\/20653",
+                    "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/28002157\/posts\/20653\/help",
+                    "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/28002157",
+                    "replies": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/posts\/20653\/replies\/",
+                    "likes": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/28002157\/posts\/20653\/likes\/"
                 }
             },
             "capabilities": {
@@ -3303,9 +3303,9 @@
                     "post_count": 1,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:anxiety",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:anxiety\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:anxiety",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:anxiety\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3317,9 +3317,9 @@
                     "post_count": 2,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:decor",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:decor\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:decor",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:decor\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3331,9 +3331,9 @@
                     "post_count": 4,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:fall",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:fall\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:fall",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:fall\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3345,9 +3345,9 @@
                     "post_count": 26,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:happiness",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:happiness\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:happiness",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:happiness\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3359,9 +3359,9 @@
                     "post_count": 16,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:health",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:health\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:health",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:health\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3373,9 +3373,9 @@
                     "post_count": 56,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:life",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:life\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:life",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:life\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3387,9 +3387,9 @@
                     "post_count": 6,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:love",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:love\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:love",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:love\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3401,9 +3401,9 @@
                     "post_count": 57,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:photography",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:photography\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:photography",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:photography\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3415,9 +3415,9 @@
                     "post_count": 3,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:pumpkin",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:pumpkin\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:pumpkin",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:pumpkin\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 },
@@ -3429,9 +3429,9 @@
                     "post_count": 2,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/tags\/slug:shopping",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/tags\/slug:shopping\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/tags\/slug:shopping",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/tags\/slug:shopping\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 }
@@ -3446,9 +3446,9 @@
                     "parent": 0,
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/categories\/slug:life",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/categories\/slug:life\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/categories\/slug:life",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/categories\/slug:life\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414"
                         }
                     }
                 }
@@ -3492,10 +3492,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15708",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15708\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15708",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15708\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 },
@@ -3537,10 +3537,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15709",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15709\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15709",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15709\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 },
@@ -3582,10 +3582,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15707",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15707\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15707",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15707\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 },
@@ -3627,10 +3627,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15706",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15706\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15706",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15706\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 },
@@ -3672,10 +3672,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15704",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15704\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15704",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15704\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 },
@@ -3717,10 +3717,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15703",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15703\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15703",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15703\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 },
@@ -3762,10 +3762,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15701",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15701\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15701",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15701\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 },
@@ -3807,10 +3807,10 @@
                     },
                     "meta": {
                         "links": {
-                            "self": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414\/media\/15696",
-                            "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/media\/15696\/help",
-                            "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                            "parent": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697"
+                            "self": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414\/media\/15696",
+                            "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/media\/15696\/help",
+                            "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                            "parent": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697"
                         }
                     }
                 }
@@ -3819,11 +3819,11 @@
             "metadata": [],
             "meta": {
                 "links": {
-                    "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/read\/sites\/21271414\/posts\/15697",
-                    "help": "https:\/\/public-api.wordpress.com\/rest\/v\/sites\/21271414\/posts\/15697\/help",
-                    "site": "https:\/\/public-api.wordpress.com\/rest\/v1.2\/sites\/21271414",
-                    "replies": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697\/replies\/",
-                    "likes": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/21271414\/posts\/15697\/likes\/"
+                    "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/read\/sites\/21271414\/posts\/15697",
+                    "help": "{{request.requestLine.baseUrl}}\/rest\/v\/sites\/21271414\/posts\/15697\/help",
+                    "site": "{{request.requestLine.baseUrl}}\/rest\/v1.2\/sites\/21271414",
+                    "replies": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697\/replies\/",
+                    "likes": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/21271414\/posts\/15697\/likes\/"
                 }
             },
             "capabilities": {

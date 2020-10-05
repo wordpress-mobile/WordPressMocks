@@ -163,12 +163,12 @@
             "jetpack_modules": null,
             "meta": {
                 "links": {
-                    "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851495",
-                    "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851495\/help",
-                    "posts": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851495\/posts\/",
-                    "comments": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851495\/comments\/",
+                    "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851495",
+                    "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851495\/help",
+                    "posts": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851495\/posts\/",
+                    "comments": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851495\/comments\/",
                     "xmlrpc": "https:\/\/fourpawsdoggrooming.wordpress.com\/xmlrpc.php",
-                    "site_icon": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851495\/media\/39"
+                    "site_icon": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851495\/media\/39"
                 }
             },
             "quota": {

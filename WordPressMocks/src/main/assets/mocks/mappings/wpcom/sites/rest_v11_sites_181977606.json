@@ -161,12 +161,12 @@
             "jetpack_modules": null,
             "meta": {
                 "links": {
-                    "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181977606",
-                    "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181977606\/help",
-                    "posts": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181977606\/posts\/",
-                    "comments": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181977606\/comments\/",
+                    "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181977606",
+                    "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181977606\/help",
+                    "posts": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181977606\/posts\/",
+                    "comments": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181977606\/comments\/",
                     "xmlrpc": "https:\/\/weekendbakesblog.wordpress.com\/xmlrpc.php",
-                    "site_icon": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181977606\/media\/12"
+                    "site_icon": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181977606\/media\/12"
                 }
             },
             "quota": {

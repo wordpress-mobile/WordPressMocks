@@ -59,9 +59,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/133",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/133\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/133",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/133\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -116,9 +116,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/132",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/132\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/132",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/132\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -173,9 +173,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/131",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/131\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/131",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/131\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -230,9 +230,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/130",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/130\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/130",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/130\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -287,9 +287,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/129",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/129\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/129",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/129\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -344,9 +344,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/128",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/128\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/128",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/128\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -401,9 +401,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/127",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/127\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/127",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/127\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -458,9 +458,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/126",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/126\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/126",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/126\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -515,9 +515,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/125",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/125\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/125",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/125\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -572,9 +572,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/124",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/124\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/124",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/124\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -629,9 +629,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/123",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/123\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/123",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/123\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -686,9 +686,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/122",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/122\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/122",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/122\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -743,9 +743,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/121",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/121\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/121",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/121\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -800,9 +800,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/120",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/120\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/120",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/120\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -857,9 +857,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/119",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/119\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/119",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/119\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -914,9 +914,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/118",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/118\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/118",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/118\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -971,9 +971,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/117",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/117\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/117",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/117\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1028,9 +1028,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/116",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/116\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/116",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/116\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1085,9 +1085,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/115",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/115\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/115",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/115\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1142,9 +1142,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/114",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/114\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/114",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/114\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1199,9 +1199,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/113",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/113\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/113",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/113\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1256,9 +1256,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/112",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/112\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/112",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/112\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1313,9 +1313,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/111",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/111\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/111",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/111\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1370,9 +1370,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/110",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/110\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/110",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/110\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1427,9 +1427,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/109",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/109\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/109",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/109\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1484,9 +1484,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/108",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/108\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/108",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/108\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1541,9 +1541,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/107",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/107\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/107",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/107\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1598,9 +1598,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/106",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/106\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/106",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/106\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1655,9 +1655,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/105",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/105\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/105",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/105\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1712,9 +1712,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/104",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/104\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/104",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/104\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1769,9 +1769,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/103",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/103\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/103",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/103\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1826,9 +1826,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/102",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/102\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/102",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/102\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1883,9 +1883,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/100",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/100\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/100",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/100\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1940,9 +1940,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/99",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/99\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/99",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/99\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -1997,9 +1997,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/98",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/98\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/98",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/98\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2054,9 +2054,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/97",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/97\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/97",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/97\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2111,9 +2111,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/96",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/96\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/96",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/96\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2168,9 +2168,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/95",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/95\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/95",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/95\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2225,9 +2225,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/94",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/94\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/94",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/94\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2282,9 +2282,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/93",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/93\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/93",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/93\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2339,9 +2339,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/92",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/92\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/92",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/92\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2396,9 +2396,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/91",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/91\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/91",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/91\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2453,9 +2453,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/90",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/90\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/90",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/90\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2510,9 +2510,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/89",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/89\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/89",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/89\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2567,9 +2567,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/88",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/88\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/88",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/88\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2624,9 +2624,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/87",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/87\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/87",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/87\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2681,9 +2681,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/86",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/86\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/86",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/86\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2738,9 +2738,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/85",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/85\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/85",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/85\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2795,9 +2795,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/84",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/84\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/84",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/84\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2852,9 +2852,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/83",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/83\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/83",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/83\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2909,9 +2909,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/82",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/82\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/82",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/82\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -2966,9 +2966,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/81",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/81\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/81",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/81\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3023,9 +3023,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/80",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/80\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/80",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/80\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3080,9 +3080,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/79",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/79\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/79",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/79\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3137,9 +3137,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/78",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/78\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/78",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/78\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3194,9 +3194,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/77",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/77\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/77",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/77\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3251,9 +3251,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/76",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/76\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/76",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/76\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3308,9 +3308,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/75",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/75\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/75",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/75\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3365,9 +3365,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/74",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/74\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/74",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/74\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3422,9 +3422,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/73",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/73\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/73",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/73\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3479,9 +3479,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/72",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/72\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/72",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/72\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3536,9 +3536,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/71",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/71\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/71",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/71\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3593,9 +3593,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/70",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/70\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/70",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/70\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3650,9 +3650,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/69",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/69\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/69",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/69\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3707,9 +3707,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/68",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/68\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/68",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/68\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3764,9 +3764,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/67",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/67\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/67",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/67\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }, {
@@ -3821,9 +3821,9 @@
         },
         "meta": {
             "links": {
-                "self": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/30",
-                "help": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541\/media\/30\/help",
-                "site": "https:\/\/public-api.wordpress.com\/rest\/v1.1\/sites\/181851541"
+                "self": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/30",
+                "help": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541\/media\/30\/help",
+                "site": "{{request.requestLine.baseUrl}}\/rest\/v1.1\/sites\/181851541"
             }
         }
     }]

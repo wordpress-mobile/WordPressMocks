@@ -100,21 +100,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/09\/wp-1599259750300.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/54"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/54"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=54"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=54"
         }]
       }
     }, {
@@ -212,21 +212,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/09\/wp-1599259750281.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/53"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/53"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=53"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=53"
         }]
       }
     }, {
@@ -324,21 +324,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/09\/wp-1599259750292.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/52"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/52"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=52"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=52"
         }]
       }
     }, {
@@ -436,21 +436,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/09\/wp-1599259750308.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/51"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/51"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=51"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=51"
         }]
       }
     }, {
@@ -548,21 +548,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/09\/wp-1599259750265.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/50"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/50"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=50"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=50"
         }]
       }
     }, {
@@ -660,21 +660,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/08\/pexels-photo-732548.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/49"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/49"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=49"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=49"
         }]
       }
     }, {
@@ -772,21 +772,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/08\/pexels-photo-131723.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/48"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/48"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=48"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=48"
         }]
       }
     }, {
@@ -884,21 +884,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/08\/pexels-photo-1237119.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/47"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/47"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=47"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=47"
         }]
       }
     }, {
@@ -996,21 +996,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/08\/pexels-photo-371589.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/46"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/46"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=46"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=46"
         }]
       }
     }, {
@@ -1108,21 +1108,21 @@
       "source_url": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/08\/pexels-photo-235734.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media\/45"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media\/45"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181977606\/comments?post=45"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181977606\/comments?post=45"
         }]
       }
     }],

@@ -100,21 +100,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/image-1.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/65"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/65"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=65"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=65"
         }]
       }
     }, {
@@ -212,21 +212,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/wp-1598469598971.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/63"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/63"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=63"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=63"
         }]
       }
     }, {
@@ -324,21 +324,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/image.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/61"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/61"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/191794483"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/191794483"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=61"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=61"
         }]
       }
     }, {
@@ -436,21 +436,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/alvan-nee-1vgfqdcux-4-unsplash.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/49"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/49"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/14151046"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/14151046"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=49"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=49"
         }]
       }
     }, {
@@ -548,21 +548,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/boney-dhirbh9en6i-unsplash.jpg",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/47"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/47"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/14151046"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/14151046"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=47"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=47"
         }]
       }
     }, {
@@ -688,21 +688,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/cropped-fourpaws-logo-2-1.png",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/39"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/39"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/14151046"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/14151046"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=39"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=39"
         }]
       }
     }, {
@@ -800,21 +800,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/cropped-fourpaws-logo-2.png",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/37"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/37"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/14151046"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/14151046"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=37"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=37"
         }]
       }
     }, {
@@ -912,21 +912,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/fourpaws-logo-2.png",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/36"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/36"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/14151046"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/14151046"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=36"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=36"
         }]
       }
     }, {
@@ -1024,21 +1024,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/cropped-fourpaws-logo-1.png",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/34"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/34"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/14151046"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/14151046"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=34"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=34"
         }]
       }
     }, {
@@ -1136,21 +1136,21 @@
       "source_url": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/fourpaws-logo-1.png",
       "_links": {
         "self": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media\/33"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media\/33"
         }],
         "collection": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/media"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/media"
         }],
         "about": [{
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/types\/attachment"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/types\/attachment"
         }],
         "author": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/users\/14151046"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/users\/14151046"
         }],
         "replies": [{
           "embeddable": true,
-          "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/181851495\/comments?post=33"
+          "href": "{{request.requestLine.baseUrl}}\/wp\/v2\/sites\/181851495\/comments?post=33"
         }]
       }
     }],
