@@ -1,6 +1,6 @@
 {
     "request": {
-        "urlPath": "/wpcom/v2/me/gutenberg/",
+        "urlPath": "/wpcom/v2/me/gutenberg",
         "method": "POST"
     },
     "response": {
