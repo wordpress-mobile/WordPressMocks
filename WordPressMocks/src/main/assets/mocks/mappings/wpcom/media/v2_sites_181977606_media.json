@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPath": "/wp/v2/sites/181851495/media"
+    "urlPath": "/wp/v2/sites/181977606/media"
   },
   "response": {
     "status": 200,
