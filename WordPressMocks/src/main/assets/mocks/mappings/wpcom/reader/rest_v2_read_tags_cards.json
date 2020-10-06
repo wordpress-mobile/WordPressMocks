@@ -50,8 +50,8 @@
                 "site_ID": 122910962,
                 "has_avatar": true
             },
-            "date": "2019-05-27T09:00:17-04:00",
-            "modified": "2019-05-21T23:55:05-04:00",
+            "date": "{{now offset='-2 hours'}}",
+            "modified": "{{now offset='-2 hours'}}",
             "title": "Kelsey Montague Art",
             "URL": "https://discover.wordpress.com/2019/05/27/kelsey-montague-art/",
             "short_URL": "https://wp.me/p3Ca1O-9Gm",
@@ -630,8 +630,8 @@
                 "site_ID": 9838404,
                 "has_avatar": true
             },
-            "date": "2019-05-26T09:00:58-04:00",
-            "modified": "2019-05-22T17:07:55-04:00",
+            "date": "{{now offset='-1 days'}}",
+            "modified": "{{now offset='-1 days'}}",
             "title": "The Radical Notion of Not Letting Work Define You",
             "URL": "https://discover.wordpress.com/2019/05/26/the-radical-notion-of-not-letting-work-define-you/",
             "short_URL": "https://wp.me/p3Ca1O-9FP",

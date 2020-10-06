@@ -18,7 +18,7 @@
                 "type": "like",
                 "read": 0,
                 "noticon": "\uf408",
-                "timestamp": "2020-10-05T15:10:13+00:00",
+                "timestamp": "{{now}}",
                 "icon": "https:\/\/1.gravatar.com\/avatar\/11bcf6345930a9fbde5e6f0985c3f24a?s=256&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D256&r=G",
                 "url": "https:\/\/weekendbakesblog.wordpress.com\/2020\/10\/05\/my-top-10-pastry-recipes\/",
                 "subject": [{
@@ -243,7 +243,7 @@
                 "type": "comment_like",
                 "read": 1,
                 "noticon": "\uf408",
-                "timestamp": "2020-10-05T15:11:47+00:00",
+                "timestamp": "{{now offset='-1 hours'}}",
                 "icon": "https:\/\/2.gravatar.com\/avatar\/e31f50d91bb2f5b278038898680ea194?s=256&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D256&r=G",
                 "url": "https:\/\/weekendbakesblog.wordpress.com\/2020\/10\/05\/my-top-10-pastry-recipes\/comment-page-1\/#comment-3",
                 "subject": [{
@@ -328,7 +328,7 @@
                 "type": "comment",
                 "read": 1,
                 "noticon": "\uf300",
-                "timestamp": "2020-10-05T15:07:50+00:00",
+                "timestamp": "{{now offset='-2 hours'}}",
                 "icon": "https:\/\/1.gravatar.com\/avatar\/4b7ac5a2b497adbd473313b0701023a4?s=256&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D256&r=G",
                 "url": "https:\/\/weekendbakesblog.wordpress.com\/2020\/10\/05\/my-top-10-pastry-recipes\/comment-page-1\/#comment-2",
                 "subject": [{
@@ -452,7 +452,7 @@
                 "type": "comment",
                 "read": 1,
                 "noticon": "\uf300",
-                "timestamp": "2020-10-05T15:06:21+00:00",
+                "timestamp": "{{now offset='-3 hours'}}",
                 "icon": "https:\/\/2.gravatar.com\/avatar\/bf9d10e44237e511d841a9b8076746d5?s=256&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D256&r=G",
                 "url": "https:\/\/weekendbakesblog.wordpress.com\/2020\/10\/05\/my-top-10-pastry-recipes\/comment-page-1\/#comment-1",
                 "subject": [{
@@ -596,7 +596,7 @@
                 "type": "new_post",
                 "read": 0,
                 "noticon": "\uf455",
-                "timestamp": "2020-10-05T15:03:33+00:00",
+                "timestamp": "{{now offset='-4 hours'}}",
                 "icon": "https:\/\/2.gravatar.com\/avatar\/e31f50d91bb2f5b278038898680ea194?s=256&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D256&r=G",
                 "url": "https:\/\/weekendbakesblog.wordpress.com\/2020\/10\/05\/easy-blueberry-muffins\/",
                 "subject": [{
@@ -710,7 +710,7 @@
                 "type": "follow",
                 "read": 0,
                 "noticon": "\uf801",
-                "timestamp": "2020-10-05T15:02:42+00:00",
+                "timestamp": "{{now offset='-5 hours'}}",
                 "icon": "https:\/\/2.gravatar.com\/avatar\/b9dadbf067e5583eaf82abefc49727bb?s=256&d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D256&r=G",
                 "url": "http:\/\/weekendbakesblog.wordpress.com",
                 "subject": [{
@@ -904,7 +904,7 @@
                 "type": "best_liked_day_feat",
                 "read": 1,
                 "noticon": "\uf806",
-                "timestamp": "2020-10-04T15:09:50+00:00",
+                "timestamp": "{{now offset='-1 days'}}",
                 "icon": "https:\/\/s.wp.com\/wp-content\/mu-plugins\/achievements\/bestday-likes-2x.png",
                 "url": "http:\/\/weekendbakesblog.wordpress.com",
                 "subject": [{
@@ -963,7 +963,7 @@
                 "type": "post_milestone_achievement",
                 "read": 1,
                 "noticon": "\uf806",
-                "timestamp": "2020-09-04T22:49:17+00:00",
+                "timestamp": "{{now offset='-2 days'}}",
                 "icon": "https:\/\/s.wp.com\/wp-content\/mu-plugins\/achievements\/post-milestone-1-2x.png",
                 "url": "http:\/\/wordpress.com\/trophy-case\/",
                 "subject": [{
