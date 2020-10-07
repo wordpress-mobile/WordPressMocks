@@ -1,12 +1,14 @@
 {
     "request": {
-        "method": "GET",
-        "urlPathPattern": "/rest/v1.1/sites/.*/stats/post/(.*)(/?)"
+        "urlPath": "/wpcom/v2/sites/181851495/gutenberg",
+        "method": "GET"
     },
     "response": {
         "status": 200,
         "jsonBody": {
-            "views": 35
+            "editor_mobile": "gutenberg",
+            "editor_web": "gutenberg",
+            "opt_in": "{{request.requestLine.baseUrl}}/wpcom/v2/sites/181851495/gutenberg?editor=gutenberg&platform=mobile"
         },
         "headers": {
             "Content-Type": "application/json",
