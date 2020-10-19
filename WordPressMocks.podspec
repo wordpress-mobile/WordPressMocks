@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name           = 'WordPressMocks'
-  s.version        = '0.0.9-beta.2'
+  s.version        = '0.0.9'
   s.platform       = :ios
   s.summary        = 'Network mocking for testing the WordPress mobile apps.'
   s.homepage       = 'https://github.com/wordpress-mobile/WordPressMocks'
