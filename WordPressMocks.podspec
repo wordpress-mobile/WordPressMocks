@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.homepage      = 'https://github.com/wordpress-mobile/WordPressMocks'
   s.license       = { type: 'GPLv2', file: 'LICENSE.md' }
-  s.author        = { "The WordPress Mobile Team" => "mobile@automattic.com" }
+  s.author        = { "The WordPress Mobile Team" => "mobile@wordpress.org" }
 
   s.platform      = :ios
 
