@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
 
   s.platform      = :ios
 
-  s.source        = { git: "https://github.com/wordpress-mobile/WordPressMocks.git", :tag => s.version.to_s }
+  s.source        = { :git => "https://github.com/wordpress-mobile/WordPressMocks.git", :tag => s.version.to_s }
   s.preserve_paths = 'WordPressMocks/src', 'scripts'
 end
