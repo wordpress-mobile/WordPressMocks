@@ -60,7 +60,7 @@
                     {
                         "summary": "Threat resolved",
                         "content": {
-                            "text": "The threat known as URL_BlackList_1 is no longer present in wp_posts: File is now clean",
+                            "text": "The threat known as URL_BlockList_1 is no longer present in wp_posts: File is now clean",
                             "ranges": [
                                 {
                                     "type": "em",
@@ -92,7 +92,7 @@
                         "object": {
                             "type": "Security",
                             "file": "wp_posts",
-                            "signature": "URL_BlackList_1",
+                            "signature": "URL_BlockList_1",
                             "fixed_ts": 1620282185208,
                             "reason": "File is now clean"
                         },
