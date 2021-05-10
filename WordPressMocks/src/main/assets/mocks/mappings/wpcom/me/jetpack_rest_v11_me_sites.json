@@ -201,12 +201,12 @@
                     ],
                     "meta": {
                         "links": {
-                            "self": "https://public-api.wordpress.com/rest/v1.2/sites/185119032",
-                            "help": "https://public-api.wordpress.com/rest/v1.2/sites/185119032/help",
-                            "posts": "https://public-api.wordpress.com/rest/v1.2/sites/185119032/posts/",
-                            "comments": "https://public-api.wordpress.com/rest/v1.1/sites/185119032/comments/",
+                            "self": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119032",
+                            "help": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119032/help",
+                            "posts": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119032/posts/",
+                            "comments": "{{request.requestLine.baseUrl}}/rest/v1.1/sites/185119032/comments/",
                             "xmlrpc": "https://pressable-jetpack-daily-backup.mystagingwebsite.com/xmlrpc.php",
-                            "site_icon": "https://public-api.wordpress.com/rest/v1.2/sites/185119032/media/14"
+                            "site_icon": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119032/media/14"
                         }
                     },
                     "quota": {
@@ -409,12 +409,12 @@
                     ],
                     "meta": {
                         "links": {
-                            "self": "https://public-api.wordpress.com/rest/v1.2/sites/185124945",
-                            "help": "https://public-api.wordpress.com/rest/v1.2/sites/185124945/help",
-                            "posts": "https://public-api.wordpress.com/rest/v1.2/sites/185124945/posts/",
-                            "comments": "https://public-api.wordpress.com/rest/v1.1/sites/185124945/comments/",
+                            "self": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185124945",
+                            "help": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185124945/help",
+                            "posts": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185124945/posts/",
+                            "comments": "{{request.requestLine.baseUrl}}/rest/v1.1/sites/185124945/comments/",
                             "xmlrpc": "https://pressable-jetpack-complete.mystagingwebsite.com/xmlrpc.php",
-                            "site_icon": "https://public-api.wordpress.com/rest/v1.2/sites/185124945/media/8"
+                            "site_icon": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185124945/media/8"
                         }
                     },
                     "quota": {
@@ -623,12 +623,12 @@
                     ],
                     "meta": {
                         "links": {
-                            "self": "https://public-api.wordpress.com/rest/v1.2/sites/185119569",
-                            "help": "https://public-api.wordpress.com/rest/v1.2/sites/185119569/help",
-                            "posts": "https://public-api.wordpress.com/rest/v1.2/sites/185119569/posts/",
-                            "comments": "https://public-api.wordpress.com/rest/v1.1/sites/185119569/comments/",
+                            "self": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119569",
+                            "help": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119569/help",
+                            "posts": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119569/posts/",
+                            "comments": "{{request.requestLine.baseUrl}}/rest/v1.1/sites/185119569/comments/",
                             "xmlrpc": "https://pressable-jetpack-daily-scan.mystagingwebsite.com/xmlrpc.php",
-                            "site_icon": "https://public-api.wordpress.com/rest/v1.2/sites/185119569/media/126"
+                            "site_icon": "{{request.requestLine.baseUrl}}/rest/v1.2/sites/185119569/media/126"
                         }
                     },
                     "quota": {

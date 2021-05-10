@@ -13,18 +13,18 @@
             "page": 1,
             "totalPages": 15,
             "itemsPerPage": 20,
-            "id": "https://public-api.wordpress.com/wpcom/v2/sites/185124945/activity?number=20&page=1",
+            "id": "{{request.requestLine.baseUrl}}/wpcom/v2/sites/185124945/activity?number=20&page=1",
             "nextAfter": [
                 1620221875793
             ],
             "oldestItemTs": 1604484582203,
-            "first": "https://public-api.wordpress.com/wpcom/v2/sites/185124945/activity?number=20&page=1",
-            "last": "https://public-api.wordpress.com/wpcom/v2/sites/185124945/activity?number=20&page=15",
+            "first": "{{request.requestLine.baseUrl}}/wpcom/v2/sites/185124945/activity?number=20&page=1",
+            "last": "{{request.requestLine.baseUrl}}/wpcom/v2/sites/185124945/activity?number=20&page=15",
             "current": {
                 "type": "OrderedCollectionPage",
-                "id": "https://public-api.wordpress.com/wpcom/v2/sites/185124945/activity?number=20&page=1",
-                "prev": "https://public-api.wordpress.com/wpcom/v2/sites/185124945/activity?number=20&page=0",
-                "next": "https://public-api.wordpress.com/wpcom/v2/sites/185124945/activity?number=20&page=2",
+                "id": "{{request.requestLine.baseUrl}}/wpcom/v2/sites/185124945/activity?number=20&page=1",
+                "prev": "{{request.requestLine.baseUrl}}/wpcom/v2/sites/185124945/activity?number=20&page=0",
+                "next": "{{request.requestLine.baseUrl}}/wpcom/v2/sites/185124945/activity?number=20&page=2",
                 "totalItems": 20,
                 "orderedItems": [
                     {
