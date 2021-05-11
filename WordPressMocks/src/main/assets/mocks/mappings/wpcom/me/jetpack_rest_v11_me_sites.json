@@ -18,9 +18,9 @@
             "sites": [
                 {
                     "ID": 185119032,
-                    "name": "Jetpack - Daily Backup",
                     "description": "Jetpack site with daily backup enabled",
-                    "URL": "https://pressable-jetpack-daily-backup.mystagingwebsite.com",
+                    "name": "Tri-County Real Estate",
+                    "URL": "yourgroovydomain.com",
                     "user_can_manage": false,
                     "capabilities": {
                         "edit_pages": true,
@@ -52,9 +52,9 @@
                     "subscribers_count": 1,
                     "lang": "en-US",
                     "icon": {
-                        "img": "https://pressable-jetpack-daily-backup.mystagingwebsite.com/wp-content/uploads/2021/05/icon.png",
-                        "ico": "https://pressable-jetpack-daily-backup.mystagingwebsite.com/wp-content/uploads/2021/05/icon.png?w=16",
-                        "media_id": 14
+                        "img": "https:\/\/tricountyrealestate.files.wordpress.com\/2020\/08\/image-1.jpg?w=96",
+                        "ico": "https:\/\/tricountyrealestate.files.wordpress.com\/2020\/08\/image-1.jpg?w=96",
+                        "media_id": 133
                     },
                     "logo": {
                         "id": 0,
@@ -230,9 +230,9 @@
                 },
                 {
                     "ID": 185124945,
-                    "name": "Jetpack - Complete",
                     "description": "Site with everything enabled",
-                    "URL": "https://pressable-jetpack-complete.mystagingwebsite.com",
+                    "name": "Weekend Bakes",
+                    "URL": "yourjetpack.blog",
                     "user_can_manage": false,
                     "capabilities": {
                         "edit_pages": true,
@@ -264,9 +264,9 @@
                     "subscribers_count": 1,
                     "lang": "en-US",
                     "icon": {
-                        "img": "https://pressable-jetpack-complete.mystagingwebsite.com/wp-content/uploads/2021/05/icon.png",
-                        "ico": "https://pressable-jetpack-complete.mystagingwebsite.com/wp-content/uploads/2021/05/icon.png?w=16",
-                        "media_id": 8
+                        "img": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/08\/image.jpg?w=96",
+                        "ico": "https:\/\/weekendbakesblog.files.wordpress.com\/2020\/08\/image.jpg?w=96",
+                        "media_id": 12
                     },
                     "logo": {
                         "id": 0,
@@ -438,9 +438,9 @@
                 },
                 {
                     "ID": 185119569,
-                    "name": "Jetpack - Scan",
+                    "name": "Four Paws Dog Grooming",
                     "description": "Jetpack with Scan Enabled",
-                    "URL": "https://pressable-jetpack-daily-scan.mystagingwebsite.com",
+                    "URL": "example.wordpress.com ",
                     "user_can_manage": false,
                     "capabilities": {
                         "edit_pages": true,
@@ -472,9 +472,9 @@
                     "subscribers_count": 1,
                     "lang": "en-US",
                     "icon": {
-                        "img": "https://pressable-jetpack-daily-scan.mystagingwebsite.com/wp-content/uploads/2021/05/icon.png",
-                        "ico": "https://pressable-jetpack-daily-scan.mystagingwebsite.com/wp-content/uploads/2021/05/icon.png?w=16",
-                        "media_id": 126
+                        "img": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/cropped-fourpaws-logo-2-1.png?w=96",
+                        "ico": "https:\/\/fourpawsdoggrooming.files.wordpress.com\/2020\/08\/cropped-fourpaws-logo-2-1.png?w=96",
+                        "media_id": 39
                     },
                     "logo": {
                         "id": 0,
