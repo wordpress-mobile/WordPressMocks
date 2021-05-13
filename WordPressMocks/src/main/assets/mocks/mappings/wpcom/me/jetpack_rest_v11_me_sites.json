@@ -5,7 +5,7 @@
         "urlPathPattern": "/rest/v1.(1|2)/me/sites",
         "queryParameters": {
             "filters": {
-                "equalTo": "jetpack"
+                "matches": "jetpack(.*)"
             },
             "locale": {
                 "matches": "(.*)"
