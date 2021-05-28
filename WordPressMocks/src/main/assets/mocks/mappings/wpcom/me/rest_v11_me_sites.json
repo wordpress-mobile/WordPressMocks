@@ -1,7 +1,13 @@
 {
+    "priority": 2,
     "request": {
-        "urlPattern": "/rest/v1.(1|2)/me/sites(\\?|/|$).*",
-        "method": "GET"
+        "method": "GET",
+        "urlPathPattern": "/rest/v1.(1|2)/me/sites",
+        "queryParameters": {
+            "locale": {
+                "matches": "(.*)"
+            }
+        }
     },
     "response": {
         "status": 200,
@@ -52,7 +58,7 @@
                         "sizes": [],
                         "url": ""
                       },
-                      
+
                       "visible": true,
                       "is_private": true,
                       "is_coming_soon": true,
