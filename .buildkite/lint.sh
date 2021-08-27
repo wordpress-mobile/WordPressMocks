@@ -1,7 +1,7 @@
 #!/bin/bash -eu
 
 echo "--- :rubygems: Setting up Gems"
-install_gems
+bundle install
 
 echo "--- :terminal: Linting JSON"
 bundle exec rake lint
