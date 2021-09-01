@@ -24,7 +24,6 @@ steps:
   - label: "🧹 Lint"
     key: "lint"
     command: .buildkite/lint.sh
-    env: *common_env
     plugins:
       - docker#v3.8.0:
           image: "ruby:2.7.4"
