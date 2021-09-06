@@ -84,10 +84,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  cocoapods (~> 1)!
-  git (~> 1)!
-  jsonlint!
-  rake!
+  cocoapods (~> 1)
+  git (~> 1)
+  jsonlint
+  rake
 
 BUNDLED WITH
-   2.0.2
+   2.2.27
