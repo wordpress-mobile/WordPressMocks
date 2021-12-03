@@ -9,7 +9,7 @@ Network mocking for testing the WordPress mobile apps
 To use this library in your project, you must set it up as a subtree.
 From the root of your main project, add the subtree:
 
-    $ git subtree add --prefix=libs/mocks git@github.com:wordpress-mobile/WordPressMocks.git develop
+    $ git subtree add --prefix=libs/mocks git@github.com:wordpress-mobile/WordPressMocks.git trunk
 
 This will create a new directory, `libs/mocks`, containing the contents of this repository.
 
@@ -49,7 +49,7 @@ Here `8282` is the port to run the server on. It can now be accessed from `http:
 
 You can fetch the latest changes made to this library into your project using:
 
-    $ git subtree pull --prefix=libs/mocks git@github.com:wordpress-mobile/WordPressMocks.git develop --squash
+    $ git subtree pull --prefix=libs/mocks git@github.com:wordpress-mobile/WordPressMocks.git trunk --squash
 
 And you can push your own changes upstream to `WordPressMocks` using:
 
@@ -61,7 +61,7 @@ Note: You can add this repository as a remote to simplify the `git subtree push`
 
 This will allow to use this form instead:
 
-    $ git subtree pull --prefix=libs/mocks mockslib develop --squash
+    $ git subtree pull --prefix=libs/mocks mockslib trunk --squash
     
     
 ## Creating a mock file 
