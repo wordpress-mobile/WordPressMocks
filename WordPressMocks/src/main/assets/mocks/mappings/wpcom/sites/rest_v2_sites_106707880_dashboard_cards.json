@@ -6,7 +6,11 @@
   "response": {
     "status": 200,
     "jsonBody": {
-      "data": null
+        "posts": {
+            "has_published": true,
+            "draft": [],
+            "scheduled": []
+        }
     },
     "headers": {
       "Content-Type": "application/json",
