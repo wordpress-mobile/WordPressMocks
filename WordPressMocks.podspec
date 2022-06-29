@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name          = 'WordPressMocks'
-  s.version       = '0.0.15'
+  s.version       = '0.0.16'
 
   s.summary       = 'Network mocking for testing the WordPress mobile apps.'
   s.description   = <<-DESC
